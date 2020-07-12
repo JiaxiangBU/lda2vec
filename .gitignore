@@ -13,3 +13,12 @@ build
 *.egg-info/
 dist/
 htmlcov/
+.Rproj.user
+lda2vec.Rproj
+Makefile
+code
+commit.Rmd
+tmp
+lda2vec/*.md
+*.ipynb
+.Rhistory
